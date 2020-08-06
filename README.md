@@ -41,7 +41,7 @@ Open game.py in Tic-Tac-Toe-Python with PyCharm or any other Python IDE.
 4) Running Files
 
 ```
-run the game.py with Sublime Text 3 or any other Python IDE.
+run the game.py with [Sublime Text 3](https://www.sublimetext.com/3) or any other Python IDE.
 ```
 
 ## Running the project
@@ -56,7 +56,7 @@ These tests check whether you can connect to the client and whether you can run 
 
 ## Built With
 
-* Python (with Sublime Text 3 https://www.sublimetext.com/3 )
+* Python (with [Sublime Text 3](https://www.sublimetext.com/3) )
 
 ## Authors
 
