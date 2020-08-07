@@ -5,7 +5,7 @@ Unbeatable, complex python AI
 
 ## Getting Started
 
-Just, copy and run. No need to load the random lib
+Just, download and run. No need to load the random lib
 
 ### Prerequisites
 
